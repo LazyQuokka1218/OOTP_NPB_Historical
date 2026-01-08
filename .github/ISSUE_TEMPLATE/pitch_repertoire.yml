@@ -1,0 +1,67 @@
+name: Pitch Repertoire
+description: Submit pitch repertoire information for a pitcher
+title: "[Pitch] "
+labels: ["pitch-repertoire", "enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Pitch Repertoire Project
+        Help us build accurate pitch repertoires for NPB pitchers!
+
+        Available pitches: Fastball, Changeup, Curve, Slider, Sinker, Splitter, Forkball, Cutter, Knuckleball, KnuckleCurve, CircleChange, Screwball
+  - type: input
+    id: player_name
+    attributes:
+      label: Player Name
+      description: Pitcher's name (English or Japanese)
+      placeholder: "e.g., Yu Darvish / ダルビッシュ有"
+    validations:
+      required: true
+  - type: input
+    id: player_id
+    attributes:
+      label: Player ID (if known)
+      description: lahmanID from the database
+      placeholder: "e.g., darvish01"
+    validations:
+      required: false
+  - type: input
+    id: years
+    attributes:
+      label: Years
+      description: Which years does this repertoire apply to?
+      placeholder: "e.g., 2010-2011 or career"
+    validations:
+      required: false
+  - type: textarea
+    id: pitches
+    attributes:
+      label: Pitch Repertoire (in order)
+      description: |
+        List pitches in order of usage/importance (1 = primary pitch)
+        Format: 1. Pitch Name, 2. Pitch Name, ...
+      placeholder: |
+        1. Fastball
+        2. Slider
+        3. Curve
+        4. Splitter
+        5. Changeup
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Any additional info (pitch characteristics, velocity, etc.)
+      placeholder: "e.g., Fastball tops out at 160 km/h, sharp slider"
+    validations:
+      required: false
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: Where did you find this information?
+      placeholder: "e.g., YouTube, NPB broadcast, news article"
+    validations:
+      required: false
