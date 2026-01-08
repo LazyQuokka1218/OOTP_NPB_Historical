@@ -41,6 +41,7 @@ Found an error? Want to suggest a nickname?
   - **Nickname Request** - Add/change player nicknames
   - **Stat Correction** - Report incorrect stats
   - **Missing Player** - Report missing players
+  - **Pitch Repertoire** - Submit pitcher's pitch types
   - **Feature Request** - Suggest improvements
 
 ## License

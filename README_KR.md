@@ -41,6 +41,7 @@ OOTP Baseball용 NPB (일본프로야구) 히스토리컬 데이터베이스입�
   - **Nickname Request** - 선수 별명 추가/변경
   - **Stat Correction** - 스탯 오류 신고
   - **Missing Player** - 누락된 선수 신고
+  - **Pitch Repertoire** - 투수 구종 제보
   - **Feature Request** - 기능 제안
 
 ## 라이선스
