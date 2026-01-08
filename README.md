@@ -1,5 +1,7 @@
 # NPB Historical Database for OOTP
 
+[한국어](README_KR.md)
+
 NPB (Nippon Professional Baseball) historical database for Out of the Park Baseball.
 
 ## Coverage
@@ -40,16 +42,6 @@ Found an error? Want to suggest a nickname?
   - **Missing Player** - Report missing players
   - **Feature Request** - Suggest improvements
 
-## Data Sources
-
-- [NPB Official](https://npb.jp/)
-- [2689web](http://2689web.com/)
-- [ProEyeKyuu](https://proeyekyuu.com/)
-
 ## License
 
 This project is for personal use with OOTP Baseball.
-
-## Credits
-
-Created with assistance from Claude AI.
