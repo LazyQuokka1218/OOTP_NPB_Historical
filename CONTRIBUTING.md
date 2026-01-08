@@ -21,18 +21,30 @@ No coding required! Just fill out the issue template.
 
 For contributing files like logos, uniforms, ballparks, etc.
 
-#### Step 1: Fork the Repository
+#### Option A: Web Upload (No Git Required)
+
+1. Click "Fork" at the top right of the repository page
+2. In your fork, navigate to the folder you want to add files to
+3. Click "Add file" → "Upload files"
+4. Drag and drop your files
+5. Click "Commit changes"
+6. Click "Contribute" → "Open pull request"
+7. Submit your pull request
+
+#### Option B: Using Git
+
+##### Step 1: Fork the Repository
 
 Click the "Fork" button at the top right of the repository page.
 
-#### Step 2: Clone Your Fork
+##### Step 2: Clone Your Fork
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/OOTP_NPB_Historical.git
 cd OOTP_NPB_Historical
 ```
 
-#### Step 3: Add Your Files
+##### Step 3: Add Your Files
 
 Add your files to the appropriate folder:
 
@@ -47,7 +59,7 @@ Add your files to the appropriate folder:
 | Schedules | `schedules/` | - |
 | Facegen | `fg_files/` | - |
 
-#### Step 4: Commit and Push
+##### Step 4: Commit and Push
 
 ```bash
 git add .
@@ -55,7 +67,7 @@ git commit -m "Add [description of your contribution]"
 git push
 ```
 
-#### Step 5: Create Pull Request
+##### Step 5: Create Pull Request
 
 1. Go to your fork on GitHub
 2. Click "Contribute" → "Open pull request"

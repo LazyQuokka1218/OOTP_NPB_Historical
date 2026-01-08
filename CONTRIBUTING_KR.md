@@ -21,18 +21,30 @@ GitHub Issues를 통해 제보:
 
 로고, 유니폼, 구장 등 파일을 직접 기여하고 싶을 때.
 
-#### 1단계: Fork
+#### 방법 A: 웹 업로드 (Git 필요 없음)
+
+1. 레포지토리 우측 상단 "Fork" 클릭
+2. 본인 Fork에서 파일 추가할 폴더로 이동
+3. "Add file" → "Upload files" 클릭
+4. 파일 드래그 앤 드롭
+5. "Commit changes" 클릭
+6. "Contribute" → "Open pull request" 클릭
+7. Pull Request 제출
+
+#### 방법 B: Git 사용
+
+##### 1단계: Fork
 
 레포지토리 페이지 우측 상단의 "Fork" 버튼 클릭.
 
-#### 2단계: Clone
+##### 2단계: Clone
 
 ```bash
 git clone https://github.com/내계정/OOTP_NPB_Historical.git
 cd OOTP_NPB_Historical
 ```
 
-#### 3단계: 파일 추가
+##### 3단계: 파일 추가
 
 적절한 폴더에 파일 추가:
 
@@ -47,7 +59,7 @@ cd OOTP_NPB_Historical
 | 스케줄 | `schedules/` | - |
 | 페이스젠 | `fg_files/` | - |
 
-#### 4단계: Commit & Push
+##### 4단계: Commit & Push
 
 ```bash
 git add .
@@ -55,7 +67,7 @@ git commit -m "Add [기여 내용 설명]"
 git push
 ```
 
-#### 5단계: Pull Request 생성
+##### 5단계: Pull Request 생성
 
 1. GitHub에서 본인 Fork로 이동
 2. "Contribute" → "Open pull request" 클릭
