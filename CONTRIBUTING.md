@@ -76,21 +76,24 @@ git push
 
 ## File Naming Conventions
 
+Use the OOTP registered team name (not the real corporate name).
+
 ### Logos
 ```
-teamname_year.png
+teamname_startyear-endyear_color1_color2.png
 ```
 Examples:
-- `yomiuri_giants_1975.png`
-- `hanshin_tigers_1990.png`
+- `tokyo_giants_1961-1974_orange_black.png`
+- `tokyo_giants_1975-1992_orange_black.png`
+- `osaka_tigers_1961-1999_yellow_black.png`
 
 ### Uniforms
 ```
-teamname_year_type.png
+teamname_startyear-endyear_type_color1_color2.png
 ```
 Examples:
-- `yomiuri_giants_1975_home.png`
-- `yomiuri_giants_1975_away.png`
+- `tokyo_giants_1975-1992_home_orange_black.png`
+- `tokyo_giants_1975-1992_away_orange_black.png`
 
 ## Questions?
 

@@ -76,21 +76,24 @@ git push
 
 ## 파일 이름 규칙
 
+OOTP에 등록된 팀명을 사용하세요 (실제 기업명 X).
+
 ### 로고
 ```
-팀명_연도.png
+팀명_시작연도-종료연도_색상1_색상2.png
 ```
 예시:
-- `yomiuri_giants_1975.png`
-- `hanshin_tigers_1990.png`
+- `tokyo_giants_1961-1974_orange_black.png`
+- `tokyo_giants_1975-1992_orange_black.png`
+- `osaka_tigers_1961-1999_yellow_black.png`
 
 ### 유니폼
 ```
-팀명_연도_타입.png
+팀명_시작연도-종료연도_타입_색상1_색상2.png
 ```
 예시:
-- `yomiuri_giants_1975_home.png`
-- `yomiuri_giants_1975_away.png`
+- `tokyo_giants_1975-1992_home_orange_black.png`
+- `tokyo_giants_1975-1992_away_orange_black.png`
 
 ## 질문이 있으신가요?
 
