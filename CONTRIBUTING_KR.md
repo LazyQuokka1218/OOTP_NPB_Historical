@@ -89,11 +89,12 @@ OOTP에 등록된 팀명을 사용하세요 (실제 기업명 X).
 
 ### 유니폼
 ```
-팀명_시작연도-종료연도_타입_색상1_색상2.png
+팀명_시작연도-종료연도.png (홈)
+팀명_시작연도-종료연도_away.png (원정)
 ```
 예시:
-- `tokyo_giants_1975-1992_home_orange_black.png`
-- `tokyo_giants_1975-1992_away_orange_black.png`
+- `tokyo_giants_1975-1992.png`
+- `tokyo_giants_1975-1992_away.png`
 
 ## 질문이 있으신가요?
 
