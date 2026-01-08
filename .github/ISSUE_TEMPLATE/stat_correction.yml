@@ -1,0 +1,52 @@
+name: Stat Correction
+description: Report incorrect stats or request corrections
+title: "[Stats] "
+labels: ["stats", "bug"]
+body:
+  - type: input
+    id: player_name
+    attributes:
+      label: Player Name
+      description: Player's name (English or Japanese)
+      placeholder: "e.g., Sadaharu Oh / 王貞治"
+    validations:
+      required: true
+  - type: input
+    id: year
+    attributes:
+      label: Year/Season
+      description: Which year or season?
+      placeholder: "e.g., 1964"
+    validations:
+      required: true
+  - type: dropdown
+    id: stat_type
+    attributes:
+      label: Stat Type
+      options:
+        - Batting
+        - Pitching
+        - Fielding
+        - Player Info (height, weight, etc.)
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What's wrong?
+      description: Describe the incorrect stat and what it should be
+      placeholder: |
+        Current value: HR = 50
+        Correct value: HR = 55
+        Source: NPB official records
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: Where did you find the correct data?
+      placeholder: "e.g., NPB official site, Baseball Reference Japan"
+    validations:
+      required: true

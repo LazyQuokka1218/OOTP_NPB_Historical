@@ -1,0 +1,44 @@
+name: Missing Player
+description: Report a missing player or request to add one
+title: "[Player] "
+labels: ["player", "enhancement"]
+body:
+  - type: input
+    id: player_name
+    attributes:
+      label: Player Name
+      description: Player's name (English and/or Japanese)
+      placeholder: "e.g., Taro Yamada / 山田太郎"
+    validations:
+      required: true
+  - type: input
+    id: team
+    attributes:
+      label: Team(s)
+      description: Which team(s) did they play for?
+      placeholder: "e.g., Yomiuri Giants (1990-2000)"
+    validations:
+      required: true
+  - type: input
+    id: years
+    attributes:
+      label: Years Active
+      description: When did they play in NPB?
+      placeholder: "e.g., 1990-2000"
+    validations:
+      required: true
+  - type: textarea
+    id: info
+    attributes:
+      label: Additional Info
+      description: Any other info about this player (position, notable achievements, etc.)
+    validations:
+      required: false
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: Where can we find info about this player?
+      placeholder: "e.g., Wikipedia, NPB official site"
+    validations:
+      required: false
