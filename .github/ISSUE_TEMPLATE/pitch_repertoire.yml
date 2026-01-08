@@ -7,156 +7,30 @@ body:
     attributes:
       value: |
         ## Pitch Repertoire Submission
-        Submit pitcher repertoires! You can submit up to 5 pitchers at once.
+        Submit pitcher repertoires!
 
-        List pitches in order of usage (primary pitch first).
+        **Format:** `Player Name | Pitch1, Pitch2, Pitch3, ...`
 
-        ---
-        ### Pitcher 1
-  - type: input
-    id: player1_name
+        One pitcher per line. List pitches in order of usage (primary pitch first).
+
+        **Available pitches:** Fastball, Slider, Curve, Changeup, Splitter, Forkball, Sinker, Cutter, Knuckleball, KnuckleCurve, CircleChange, Screwball
+  - type: textarea
+    id: pitches
     attributes:
-      label: "Pitcher 1 - Name"
-      placeholder: "e.g., Yu Darvish / ダルビッシュ有"
+      label: Pitch Repertoires
+      description: "Format: Player Name | Pitch1, Pitch2, ... (one pitcher per line)"
+      placeholder: |
+        Yu Darvish | Fastball, Slider, Curve, Splitter, Changeup
+        Masahiro Tanaka | Fastball, Splitter, Slider, Curve
+        Shohei Ohtani | Fastball, Slider, Splitter, Curve
+        Koji Uehara | Fastball, Splitter
+      render: text
     validations:
       required: true
-  - type: checkboxes
-    id: player1_pitches
-    attributes:
-      label: "Pitcher 1 - Pitches (select all that apply, in order of usage)"
-      options:
-        - label: Fastball
-        - label: Slider
-        - label: Curve
-        - label: Changeup
-        - label: Splitter
-        - label: Forkball
-        - label: Sinker
-        - label: Cutter
-        - label: Knuckleball
-        - label: KnuckleCurve
-        - label: CircleChange
-        - label: Screwball
-  - type: markdown
-    attributes:
-      value: |
-        ---
-        ### Pitcher 2 (optional)
-  - type: input
-    id: player2_name
-    attributes:
-      label: "Pitcher 2 - Name"
-      placeholder: "e.g., Masahiro Tanaka"
-    validations:
-      required: false
-  - type: checkboxes
-    id: player2_pitches
-    attributes:
-      label: "Pitcher 2 - Pitches"
-      options:
-        - label: Fastball
-        - label: Slider
-        - label: Curve
-        - label: Changeup
-        - label: Splitter
-        - label: Forkball
-        - label: Sinker
-        - label: Cutter
-        - label: Knuckleball
-        - label: KnuckleCurve
-        - label: CircleChange
-        - label: Screwball
-  - type: markdown
-    attributes:
-      value: |
-        ---
-        ### Pitcher 3 (optional)
-  - type: input
-    id: player3_name
-    attributes:
-      label: "Pitcher 3 - Name"
-      placeholder: "e.g., Shohei Ohtani"
-    validations:
-      required: false
-  - type: checkboxes
-    id: player3_pitches
-    attributes:
-      label: "Pitcher 3 - Pitches"
-      options:
-        - label: Fastball
-        - label: Slider
-        - label: Curve
-        - label: Changeup
-        - label: Splitter
-        - label: Forkball
-        - label: Sinker
-        - label: Cutter
-        - label: Knuckleball
-        - label: KnuckleCurve
-        - label: CircleChange
-        - label: Screwball
-  - type: markdown
-    attributes:
-      value: |
-        ---
-        ### Pitcher 4 (optional)
-  - type: input
-    id: player4_name
-    attributes:
-      label: "Pitcher 4 - Name"
-      placeholder: "e.g., Koji Uehara"
-    validations:
-      required: false
-  - type: checkboxes
-    id: player4_pitches
-    attributes:
-      label: "Pitcher 4 - Pitches"
-      options:
-        - label: Fastball
-        - label: Slider
-        - label: Curve
-        - label: Changeup
-        - label: Splitter
-        - label: Forkball
-        - label: Sinker
-        - label: Cutter
-        - label: Knuckleball
-        - label: KnuckleCurve
-        - label: CircleChange
-        - label: Screwball
-  - type: markdown
-    attributes:
-      value: |
-        ---
-        ### Pitcher 5 (optional)
-  - type: input
-    id: player5_name
-    attributes:
-      label: "Pitcher 5 - Name"
-      placeholder: "e.g., Hideo Nomo"
-    validations:
-      required: false
-  - type: checkboxes
-    id: player5_pitches
-    attributes:
-      label: "Pitcher 5 - Pitches"
-      options:
-        - label: Fastball
-        - label: Slider
-        - label: Curve
-        - label: Changeup
-        - label: Splitter
-        - label: Forkball
-        - label: Sinker
-        - label: Cutter
-        - label: Knuckleball
-        - label: KnuckleCurve
-        - label: CircleChange
-        - label: Screwball
   - type: textarea
     id: notes
     attributes:
       label: Notes (optional)
-      placeholder: "Any additional context (e.g., pitch order, velocity)"
+      placeholder: "Any additional context (e.g., velocity, pitch nicknames)"
     validations:
       required: false
