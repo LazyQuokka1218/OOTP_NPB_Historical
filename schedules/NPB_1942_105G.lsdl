@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<SCHEDULE type="ILN_BGN_G93_SL1_D1_T9" inter_league="0" balanced_games="0" games_per_team="93" start_month="3" start_day="28" start_day_of_week="7" allstar_game_day="113">
+<SCHEDULE type="ILN_BGN_G105_SL1_D1_T8" inter_league="0" balanced_games="0" games_per_team="105" start_month="3" start_day="28" start_day_of_week="7" allstar_game_day="113">
   <GAMES>
     <GAME day="1" time="1400" home="4" away="1"/>
     <GAME day="1" time="1400" home="8" away="3"/>
@@ -284,58 +284,58 @@
     <GAME day="169" time="1400" home="2" away="1"/>
     <GAME day="169" time="1400" home="4" away="7"/>
     <GAME day="169" time="1400" home="5" away="6"/>
-    <GAME day="169" time="1400" home="8" away="9"/>
+    <GAME day="169" time="1400" home="8" away="3"/>
     <GAME day="170" time="1400" home="8" away="1"/>
     <GAME day="170" time="1400" home="4" away="5"/>
     <GAME day="170" time="1400" home="7" away="6"/>
-    <GAME day="170" time="1400" home="2" away="9"/>
-    <GAME day="171" time="1800" home="1" away="9"/>
+    <GAME day="170" time="1400" home="2" away="3"/>
+    <GAME day="171" time="1800" home="1" away="3"/>
     <GAME day="171" time="1800" home="4" away="6"/>
     <GAME day="171" time="1800" home="8" away="2"/>
     <GAME day="171" time="1800" home="7" away="5"/>
     <GAME day="173" time="1800" home="1" away="2"/>
     <GAME day="173" time="1800" home="7" away="4"/>
     <GAME day="173" time="1800" home="6" away="5"/>
-    <GAME day="173" time="1800" home="9" away="8"/>
+    <GAME day="173" time="1800" home="3" away="8"/>
     <GAME day="176" time="1400" home="2" away="8"/>
     <GAME day="176" time="1400" home="5" away="4"/>
-    <GAME day="177" time="1400" home="6" away="9"/>
+    <GAME day="177" time="1400" home="6" away="3"/>
     <GAME day="177" time="1400" home="7" away="1"/>
     <GAME day="179" time="1800" home="8" away="5"/>
     <GAME day="179" time="1800" home="4" away="2"/>
-    <GAME day="181" time="1800" home="5" away="9"/>
+    <GAME day="181" time="1800" home="5" away="3"/>
     <GAME day="181" time="1800" home="4" away="1"/>
     <GAME day="181" time="1800" home="6" away="2"/>
     <GAME day="181" time="1800" home="8" away="7"/>
-    <GAME day="183" time="1400" home="4" away="9"/>
+    <GAME day="183" time="1400" home="4" away="3"/>
     <GAME day="183" time="1400" home="8" away="2"/>
     <GAME day="183" time="1400" home="5" away="1"/>
     <GAME day="183" time="1400" home="7" away="6"/>
-    <GAME day="184" time="1400" home="9" away="4"/>
+    <GAME day="184" time="1400" home="3" away="4"/>
     <GAME day="184" time="1400" home="2" away="6"/>
     <GAME day="184" time="1400" home="1" away="5"/>
     <GAME day="184" time="1400" home="7" away="8"/>
-    <GAME day="185" time="1800" home="9" away="5"/>
+    <GAME day="185" time="1800" home="3" away="5"/>
     <GAME day="185" time="1800" home="1" away="4"/>
     <GAME day="185" time="1800" home="8" away="6"/>
     <GAME day="185" time="1800" home="7" away="2"/>
     <GAME day="188" time="1800" home="5" away="8"/>
-    <GAME day="188" time="1800" home="4" away="9"/>
+    <GAME day="188" time="1800" home="4" away="3"/>
     <GAME day="188" time="1800" home="6" away="2"/>
     <GAME day="188" time="1800" home="1" away="7"/>
-    <GAME day="190" time="1400" home="9" away="6"/>
+    <GAME day="190" time="1400" home="3" away="6"/>
     <GAME day="190" time="1400" home="1" away="8"/>
     <GAME day="190" time="1400" home="2" away="4"/>
     <GAME day="190" time="1400" home="5" away="7"/>
     <GAME day="191" time="1400" home="8" away="5"/>
     <GAME day="191" time="1400" home="6" away="4"/>
     <GAME day="191" time="1400" home="7" away="1"/>
-    <GAME day="191" time="1400" home="9" away="2"/>
-    <GAME day="192" time="1800" home="9" away="4"/>
+    <GAME day="191" time="1400" home="3" away="2"/>
+    <GAME day="192" time="1800" home="3" away="4"/>
     <GAME day="192" time="1800" home="2" away="6"/>
     <GAME day="192" time="1800" home="5" away="1"/>
     <GAME day="192" time="1800" home="8" away="7"/>
-    <GAME day="193" time="1800" home="6" away="9"/>
+    <GAME day="193" time="1800" home="6" away="3"/>
     <GAME day="193" time="1800" home="8" away="1"/>
     <GAME day="193" time="1800" home="4" away="2"/>
     <GAME day="193" time="1800" home="7" away="5"/>
@@ -344,82 +344,82 @@
     <GAME day="198" time="1400" home="1" away="6"/>
     <GAME day="198" time="1400" home="5" away="7"/>
     <GAME day="198" time="1400" home="4" away="8"/>
-    <GAME day="198" time="1400" home="2" away="9"/>
-    <GAME day="199" time="1800" home="5" away="9"/>
+    <GAME day="198" time="1400" home="2" away="3"/>
+    <GAME day="199" time="1800" home="5" away="3"/>
     <GAME day="199" time="1800" home="1" away="8"/>
     <GAME day="199" time="1800" home="4" away="6"/>
     <GAME day="199" time="1800" home="2" away="7"/>
     <GAME day="200" time="1800" home="4" away="1"/>
     <GAME day="200" time="1800" home="8" away="6"/>
-    <GAME day="200" time="1800" home="7" away="9"/>
+    <GAME day="200" time="1800" home="7" away="3"/>
     <GAME day="200" time="1800" home="5" away="2"/>
-    <GAME day="202" time="1800" home="9" away="5"/>
+    <GAME day="202" time="1800" home="3" away="5"/>
     <GAME day="202" time="1800" home="6" away="1"/>
     <GAME day="202" time="1800" home="7" away="2"/>
     <GAME day="202" time="1800" home="8" away="4"/>
     <GAME day="205" time="1400" home="4" away="1"/>
     <GAME day="205" time="1400" home="5" away="6"/>
     <GAME day="205" time="1400" home="2" away="8"/>
-    <GAME day="205" time="1400" home="9" away="7"/>
+    <GAME day="205" time="1400" home="3" away="7"/>
     <GAME day="206" time="1800" home="4" away="6"/>
     <GAME day="206" time="1800" home="2" away="7"/>
     <GAME day="206" time="1800" home="1" away="5"/>
-    <GAME day="206" time="1800" home="8" away="9"/>
+    <GAME day="206" time="1800" home="8" away="3"/>
     <GAME day="207" time="1800" home="1" away="6"/>
     <GAME day="207" time="1800" home="4" away="5"/>
     <GAME day="208" time="1800" home="7" away="8"/>
-    <GAME day="208" time="1800" home="9" away="2"/>
+    <GAME day="208" time="1800" home="3" away="2"/>
     <GAME day="211" time="1400" home="5" away="6"/>
     <GAME day="211" time="1400" home="2" away="4"/>
     <GAME day="211" time="1400" home="1" away="7"/>
-    <GAME day="211" time="1400" home="9" away="8"/>
+    <GAME day="211" time="1400" home="3" away="8"/>
     <GAME day="212" time="1400" home="2" away="1"/>
-    <GAME day="212" time="1400" home="9" away="6"/>
+    <GAME day="212" time="1400" home="3" away="6"/>
     <GAME day="212" time="1400" home="4" away="7"/>
     <GAME day="212" time="1400" home="5" away="8"/>
     <GAME day="213" time="1800" home="1" away="2"/>
     <GAME day="213" time="1800" home="7" away="4"/>
     <GAME day="213" time="1800" home="6" away="5"/>
-    <GAME day="213" time="1800" home="8" away="9"/>
+    <GAME day="213" time="1800" home="8" away="3"/>
     <GAME day="219" time="1400" home="4" away="8"/>
     <GAME day="219" time="1400" home="6" away="7"/>
     <GAME day="220" time="1800" home="4" away="7"/>
     <GAME day="220" time="1800" home="6" away="8"/>
     <GAME day="220" time="1800" home="5" away="1"/>
-    <GAME day="220" time="1800" home="2" away="9"/>
-    <GAME day="221" time="1800" home="5" away="9"/>
+    <GAME day="220" time="1800" home="2" away="3"/>
+    <GAME day="221" time="1800" home="5" away="3"/>
     <GAME day="221" time="1800" home="2" away="1"/>
     <GAME day="221" time="1800" home="4" away="6"/>
     <GAME day="221" time="1800" home="8" away="7"/>
-    <GAME day="222" time="1800" home="9" away="1"/>
+    <GAME day="222" time="1800" home="3" away="1"/>
     <GAME day="222" time="1800" home="2" away="5"/>
-    <GAME day="225" time="1400" home="6" away="9"/>
+    <GAME day="225" time="1400" home="6" away="3"/>
     <GAME day="225" time="1400" home="7" away="1"/>
     <GAME day="225" time="1400" home="8" away="4"/>
     <GAME day="225" time="1400" home="5" away="2"/>
-    <GAME day="226" time="1400" home="9" away="1"/>
+    <GAME day="226" time="1400" home="3" away="1"/>
     <GAME day="226" time="1400" home="8" away="5"/>
     <GAME day="226" time="1400" home="4" away="2"/>
     <GAME day="226" time="1400" home="7" away="6"/>
     <GAME day="227" time="1800" home="6" away="1"/>
     <GAME day="227" time="1800" home="8" away="2"/>
     <GAME day="227" time="1800" home="5" away="4"/>
-    <GAME day="227" time="1800" home="7" away="9"/>
-    <GAME day="228" time="1800" home="9" away="1"/>
+    <GAME day="227" time="1800" home="7" away="3"/>
+    <GAME day="228" time="1800" home="3" away="1"/>
     <GAME day="228" time="1800" home="8" away="4"/>
     <GAME day="228" time="1800" home="6" away="7"/>
     <GAME day="228" time="1800" home="5" away="2"/>
-    <GAME day="230" time="1800" home="9" away="7"/>
+    <GAME day="230" time="1800" home="3" away="7"/>
     <GAME day="230" time="1800" home="2" away="5"/>
-    <GAME day="231" time="1800" home="4" away="9"/>
+    <GAME day="231" time="1800" home="4" away="3"/>
     <GAME day="231" time="1800" home="5" away="7"/>
     <GAME day="232" time="1400" home="6" away="1"/>
     <GAME day="232" time="1400" home="2" away="7"/>
     <GAME day="233" time="1400" home="8" away="1"/>
     <GAME day="233" time="1400" home="5" away="4"/>
     <GAME day="234" time="1800" home="6" away="2"/>
-    <GAME day="234" time="1800" home="7" away="9"/>
-    <GAME day="236" time="1800" home="1" away="9"/>
+    <GAME day="234" time="1800" home="7" away="3"/>
+    <GAME day="236" time="1800" home="1" away="3"/>
     <GAME day="236" time="1800" home="8" away="6"/>
   </GAMES>
 </SCHEDULE>
