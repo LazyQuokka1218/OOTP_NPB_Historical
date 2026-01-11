@@ -49,6 +49,10 @@ The most comprehensive Nippon Professional Baseball (NPB) historical database fo
 >
 > **WARNING**: For OOTP 25 and earlier, this will replace your MLB historical database. Make sure to backup the original `data\database` folder if you want to play MLB historical later.
 
+### Pre-1950 Single League Era
+
+Before 1950, NPB was a single league. If you start a game in this era (1936-1949), you **MUST delete the National League** in league setup. Playing with two leagues during the single-league era will cause issues.
+
 ## File Structure
 
 ```
