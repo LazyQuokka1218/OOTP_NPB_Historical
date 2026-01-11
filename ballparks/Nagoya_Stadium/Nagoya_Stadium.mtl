@@ -1,0 +1,626 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2010/2011 TIG
+# Made for 'Nagoya_Stadium.obj'
+
+newmtl Default_Material
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Map_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.439216 0.423529 0.454902
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Map_day.png
+
+newmtl Metal_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.454902 0.474510 0.482353
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Metal_day.png
+
+newmtl Dark_Grey
+Ka 0.000000 0.000000 0.000000
+Kd 0.298039 0.298039 0.298039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Dark_Grey.jpg
+
+newmtl Concrete_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.521569 0.521569 0.521569
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Concrete_day.png
+
+newmtl white_rail_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.890196 0.882353 0.878431
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/white_rail_day.png
+
+newmtl Walkway_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.490196 0.470588
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Walkway_day.png
+
+newmtl Mizuno_Ad
+Ka 0.000000 0.000000 0.000000
+Kd 0.203922 0.215686 0.717647
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Mizuno_Ad.jpg
+
+newmtl Metal_Aluminum_Anodized2
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Metal_Aluminum_Anodized2.jpg
+
+newmtl Nagoya_Ad
+Ka 0.000000 0.000000 0.000000
+Kd 0.619608 0.462745 0.058824
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Nagoya_Ad.png
+
+newmtl seating_attendance3_green
+Ka 0.000000 0.000000 0.000000
+Kd 0.384314 0.396078 0.376471
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../attendance/seating_popularity3_green.jpg
+
+newmtl fence_blue1
+Ka 0.000000 0.000000 0.000000
+Kd 0.011765 0.176471 0.439216
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/fence_blue1.jpg
+
+newmtl scoreboard1
+Ka 0.000000 0.000000 0.000000
+Kd 0.149020 0.215686 0.219608
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/scoreboard1.jpg
+
+newmtl fence_bar
+Ka 0.000000 0.000000 0.000000
+Kd 0.211765 0.211765 0.227451
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/fence_bar.png
+
+newmtl fence3
+Ka 0.000000 0.000000 0.000000
+Kd 0.439216 0.447059 0.447059
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/fence3.png
+
+newmtl fence_top
+Ka 0.000000 0.000000 0.000000
+Kd 0.768627 0.768627 0.768627
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/fence_top.png
+
+newmtl Window_Half_Old
+Ka 0.000000 0.000000 0.000000
+Kd 0.396078 0.415686 0.435294
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Window_Half_Old.JPG
+
+newmtl Cup_Noodle
+Ka 0.000000 0.000000 0.000000
+Kd 0.823529 0.600000 0.156863
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Cup_Noodle.png
+
+newmtl Nissin
+Ka 0.000000 0.000000 0.000000
+Kd 0.713725 0.498039 0.078431
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Nissin.png
+
+newmtl Cheerio_Drink
+Ka 0.000000 0.000000 0.000000
+Kd 0.819608 0.694118 0.760784
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Cheerio_Drink.png
+
+newmtl Press_Box
+Ka 0.000000 0.000000 0.000000
+Kd 0.211765 0.231373 0.223529
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Press_Box.jpg
+
+newmtl Fence_window
+Ka 0.000000 0.000000 0.000000
+Kd 0.054902 0.086275 0.121569
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Fence_window.jpg
+
+newmtl dugout_old
+Ka 0.000000 0.000000 0.000000
+Kd 0.094118 0.121569 0.117647
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/dugout_old.jpg
+
+newmtl Main_Scoreboard
+Ka 0.000000 0.000000 0.000000
+Kd 0.239216 0.286275 0.219608
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Main_Scoreboard.jpg
+
+newmtl Clock1
+Ka 0.000000 0.000000 0.000000
+Kd 0.729412 0.643137 0.619608
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Clock1.jpg
+
+newmtl Top_Scoreboard
+Ka 0.000000 0.000000 0.000000
+Kd 0.341176 0.376471 0.333333
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Top_Scoreboard.jpg
+
+newmtl ChubuNippon
+Ka 0.000000 0.000000 0.000000
+Kd 0.278431 0.278431 0.278431
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/ChubuNippon.png
+
+newmtl nagoyaWest_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.258824 0.274510 0.329412
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/nagoyaWest_day.png
+
+newmtl nagoyaNorth_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.196078 0.211765 0.262745
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/nagoyaNorth_day.png
+
+newmtl nagoyaEast_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.243137 0.262745 0.321569
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/nagoyaEast_day.png
+
+newmtl Building1_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.478431 0.490196
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Building1_day.png
+
+newmtl Building_Blue_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.258824 0.454902 0.639216
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Building_Blue_day.png
+
+newmtl Building2_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.164706 0.215686 0.309804
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Building2_day.png
+
+newmtl Building3_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.592157 0.705882
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Building3_day.png
+
+newmtl Building4_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.592157 0.482353 0.450980
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Building4_day.png
+
+newmtl Building4_wall_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.654902 0.498039 0.431373
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Building4_wall_day.png
+
+newmtl Building5_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.607843 0.670588 0.811765
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Building5_day.png
+
+newmtl Building6_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.317647 0.329412 0.407843
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Building6_day.png
+
+newmtl Building7_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.196078 0.176471 0.262745
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Building7_day.png
+
+newmtl Coke_Ad
+Ka 0.000000 0.000000 0.000000
+Kd 0.917647 0.313725 0.349020
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Coke_Ad.png
+
+newmtl Small_Scoreboard
+Ka 0.000000 0.000000 0.000000
+Kd 0.211765 0.227451 0.258824
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Small_Scoreboard.jpg
+
+newmtl Dai_Ichi
+Ka 0.000000 0.000000 0.000000
+Kd 0.796078 0.094118 0.121569
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Dai_Ichi.jpg
+
+newmtl Panasonic
+Ka 0.000000 0.000000 0.000000
+Kd 0.254902 0.384314 0.603922
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Panasonic.jpg
+
+newmtl Kirin1
+Ka 0.000000 0.000000 0.000000
+Kd 0.882353 0.831373 0.752941
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Kirin1.jpg
+
+newmtl Nagoya_Rail
+Ka 0.000000 0.000000 0.000000
+Kd 0.843137 0.886275 0.929412
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Nagoya_Rail.jpg
+
+newmtl Urban_Home
+Ka 0.000000 0.000000 0.000000
+Kd 0.223529 0.337255 0.533333
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Urban_Home.jpg
+
+newmtl Nafco
+Ka 0.000000 0.000000 0.000000
+Kd 0.835294 0.258824 0.274510
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Nafco.jpg
+
+newmtl IDO
+Ka 0.000000 0.000000 0.000000
+Kd 0.152941 0.541176 0.360784
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/IDO.jpg
+
+newmtl Takenaka
+Ka 0.000000 0.000000 0.000000
+Kd 0.384314 0.533333 0.596078
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Takenaka.jpg
+
+newmtl mild_seven
+Ka 0.000000 0.000000 0.000000
+Kd 0.211765 0.474510 0.643137
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/mild_seven.jpg
+
+newmtl Achilles
+Ka 0.000000 0.000000 0.000000
+Kd 0.960784 0.694118 0.713725
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Achilles.jpg
+
+newmtl Ham
+Ka 0.000000 0.000000 0.000000
+Kd 0.980392 0.200000 0.196078
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Ham.jpg
+
+newmtl Duplo
+Ka 0.000000 0.000000 0.000000
+Kd 0.827451 0.874510 0.913725
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Duplo.jpg
+
+newmtl Big_John
+Ka 0.000000 0.000000 0.000000
+Kd 0.917647 0.482353 0.223529
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Big_John.jpg
+
+newmtl Eiden
+Ka 0.000000 0.000000 0.000000
+Kd 0.878431 0.850980 0.850980
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Eiden.jpg
+
+newmtl Express
+Ka 0.000000 0.000000 0.000000
+Kd 0.737255 0.756863 0.854902
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Express.jpg
+
+newmtl Wall_ad1
+Ka 0.000000 0.000000 0.000000
+Kd 0.160784 0.301961 0.517647
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Wall_ad1.jpg
+
+newmtl Wall_ad8
+Ka 0.000000 0.000000 0.000000
+Kd 0.129412 0.266667 0.498039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Wall_ad8.jpg
+
+newmtl Wall_ad5
+Ka 0.000000 0.000000 0.000000
+Kd 0.235294 0.364706 0.556863
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Wall_ad5.jpg
+
+newmtl Wall_ad3
+Ka 0.000000 0.000000 0.000000
+Kd 0.129412 0.274510 0.501961
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Wall_ad3.jpg
+
+newmtl Wall_ad9
+Ka 0.000000 0.000000 0.000000
+Kd 0.196078 0.317647 0.521569
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Wall_ad9.jpg
+
+newmtl Wall_ad4
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.305882 0.517647
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Wall_ad4.jpg
+
+newmtl Wall_ad2
+Ka 0.000000 0.000000 0.000000
+Kd 0.121569 0.266667 0.498039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Wall_ad2.jpg
+
+newmtl Wall_ad6
+Ka 0.000000 0.000000 0.000000
+Kd 0.180392 0.317647 0.529412
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Wall_ad6.jpg
+
+newmtl Wall_ad7
+Ka 0.000000 0.000000 0.000000
+Kd 0.231373 0.352941 0.552941
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Wall_ad7.jpg
+
+newmtl Wall_ad10
+Ka 0.000000 0.000000 0.000000
+Kd 0.188235 0.321569 0.533333
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Wall_ad10.jpg
+
+newmtl Quartz_Light_Grey
+Ka 0.000000 0.000000 0.000000
+Kd 0.984314 0.984314 0.988235
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Quartz_Light_Grey.jpg
+
+newmtl Infield_dirt
+Ka 0.000000 0.000000 0.000000
+Kd 0.521569 0.345098 0.227451
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Infield_dirt.jpg
+
+newmtl InfieldMount
+Ka 0.000000 0.000000 0.000000
+Kd 0.415686 0.247059 0.133333
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/InfieldMount.jpg
+
+newmtl Outside_Wall
+Ka 0.000000 0.000000 0.000000
+Kd 0.149020 0.149020 0.137255
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Outside_Wall.JPG
+
+newmtl Grass_Seamless
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.556863 0.250980
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Grass_Seamless.jpg
+
+newmtl FieldTurf
+Ka 0.000000 0.000000 0.000000
+Kd 0.419608 0.486275 0.384314
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/FieldTurf.jpg
+
+newmtl Tunnel
+Ka 0.000000 0.000000 0.000000
+Kd 0.054902 0.054902 0.058824
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Tunnel.jpg
+
+newmtl Light_Pole_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.615686 0.627451
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Light_Pole_day.png
+
+newmtl Tokai_TV_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.690196 0.423529 0.423529
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Tokai_TV_day.png
+
+newmtl Seams_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.984314 0.956863 0.956863
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Seams_day.png
+
+newmtl auto21
+Ka 0.000000 0.000000 0.000000
+Kd 0.333333 0.333333 0.333333
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Light_Shell_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.635294 0.686275 0.737255
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Light_Shell_day.png
+
+newmtl auto20
+Ka 0.000000 0.000000 0.000000
+Kd 0.776471 0.776471 0.776471
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl auto2
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Light_Bulb_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Light_Bulb_day.png
+
+newmtl Madras_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.635294 0.482353 0.482353
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Madras_day.png
+
+newmtl Primaham_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.705882 0.450980 0.454902
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Primaham_day.png
+
+newmtl Lights_Ad_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.729412 0.584314 0.580392
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/Lights_Ad_day.png
+
+newmtl ootp_scoreboard_0
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/ootp_scoreboard_0.png
+
+newmtl ootp_scoreboard_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.023529 0.023529 0.023529
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/ootp_scoreboard_1.png
+
+newmtl ootp_scoreboard_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/ootp_scoreboard_2.png
+
+newmtl ootp_scoreboard_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Nagoya_Stadium_Textures/ootp_scoreboard_3.png
+
+newmtl Duraports__Silver_Fabric
+Ka 0.000000 0.000000 0.000000
+Kd 0.768627 0.741176 0.078431
+Ks 0.000000 0.000000 0.000000
+d 0.700000
+map_Kd Nagoya_Stadium_Textures/Duraports__Silver_Fabric.jpg
+
+#EOF

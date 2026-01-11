@@ -1,0 +1,423 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2010/2011 TIG
+# Made for 'Hotto_Motto_Field_Kobe.obj'
+
+newmtl Default_Material
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Polished_Gray_Concrete_Enhance
+Ka 0.000000 0.000000 0.000000
+Kd 0.666667 0.666667 0.666667
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Polished_Gray_Concrete_Enhance.jpg
+
+newmtl Dark_Grey
+Ka 0.000000 0.000000 0.000000
+Kd 0.298039 0.298039 0.298039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Dark_Grey.jpg
+
+newmtl Metal_Worn_out
+Ka 0.000000 0.000000 0.000000
+Kd 0.376471 0.415686 0.427451
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Metal_Worn_out.JPG
+
+newmtl whitecementtexture
+Ka 0.000000 0.000000 0.000000
+Kd 0.866667 0.866667 0.866667
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/whitecementtexture.jpg
+
+newmtl seating_attendance3_green
+Ka 0.000000 0.000000 0.000000
+Kd 0.376471 0.396078 0.368627
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../attendance/seating_popularity3_green.jpg
+
+newmtl Walkway_Color
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.466667 0.458824
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Walkway_Color.jpg
+
+newmtl Green_Pale
+Ka 0.000000 0.000000 0.000000
+Kd 0.266667 0.349020 0.250980
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Green_Pale.jpg
+
+newmtl Pale_Green_Fence
+Ka 0.000000 0.000000 0.000000
+Kd 0.262745 0.305882 0.258824
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Pale_Green_Fence.png
+
+newmtl Polished_Gray_Concrete_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.592157 0.592157 0.592157
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Polished_Gray_Concrete_2.jpg
+
+newmtl Straight_Panels4
+Ka 0.000000 0.000000 0.000000
+Kd 0.454902 0.564706 0.662745
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Straight_Panels4.jpg
+
+newmtl White_Metal_Texture
+Ka 0.000000 0.000000 0.000000
+Kd 0.898039 0.898039 0.898039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/White_Metal_Texture.jpg
+
+newmtl whitemetalplatetexture
+Ka 0.000000 0.000000 0.000000
+Kd 0.717647 0.717647 0.717647
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/whitemetalplatetexture.jpg
+
+newmtl brushed_metal_silver_texture
+Ka 0.000000 0.000000 0.000000
+Kd 0.670588 0.686275 0.690196
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/brushed_metal_silver_texture.jpg
+
+newmtl Grey_Fence2
+Ka 0.000000 0.000000 0.000000
+Kd 0.309804 0.309804 0.317647
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Grey_Fence2.png
+
+newmtl Grey_Fence_Vertical
+Ka 0.000000 0.000000 0.000000
+Kd 0.278431 0.278431 0.282353
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Grey_Fence_Vertical.png
+
+newmtl Grey_Fence_Color
+Ka 0.000000 0.000000 0.000000
+Kd 0.188235 0.203922 0.235294
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Grey_Fence_Color.jpg
+
+newmtl Stadium_Name
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.556863 0.639216
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Stadium_Name.jpg
+
+newmtl Green_Pale_WallPad
+Ka 0.000000 0.000000 0.000000
+Kd 0.258824 0.325490 0.247059
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Green_Pale_WallPad.jpg
+
+newmtl Material9_YellowTop
+Ka 0.000000 0.000000 0.000000
+Kd 0.341176 0.337255 0.313725
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Material9_YellowTop.png
+
+newmtl Material9
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.552941 0.584314
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Material9.png
+
+newmtl Dugout
+Ka 0.000000 0.000000 0.000000
+Kd 0.101961 0.152941 0.160784
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Dugout.jpg
+
+newmtl Dugout2
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.141176 0.152941
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Dugout2.jpg
+
+newmtl Hotto_Lower_Bowl
+Ka 0.000000 0.000000 0.000000
+Kd 0.066667 0.078431 0.086275
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Hotto_Lower_Bowl.jpg
+
+newmtl Back_wall_Center
+Ka 0.000000 0.000000 0.000000
+Kd 0.384314 0.447059 0.431373
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Back_wall_Center.jpg
+
+newmtl Press_Box
+Ka 0.000000 0.000000 0.000000
+Kd 0.156863 0.145098 0.141176
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Press_Box.jpg
+
+newmtl Square_Brick
+Ka 0.000000 0.000000 0.000000
+Kd 0.517647 0.290196 0.207843
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Square_Brick.jpg
+
+newmtl Dugout_Top_Green
+Ka 0.000000 0.000000 0.000000
+Kd 0.454902 0.717647 0.545098
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Dugout_Top_Green.jpg
+
+newmtl Dugout_Fence
+Ka 0.000000 0.000000 0.000000
+Kd 0.831373 0.811765 0.713725
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Dugout_Fence.jpg
+
+newmtl Dugout_Fence2
+Ka 0.000000 0.000000 0.000000
+Kd 0.450980 0.584314 0.811765
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Dugout_Fence2.jpg
+
+newmtl Roofing_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.400000 0.400000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Roofing_4.jpg
+
+newmtl InfieldMix
+Ka 0.000000 0.000000 0.000000
+Kd 0.639216 0.439216 0.313725
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/InfieldMix.jpg
+
+newmtl Infield
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.443137 0.160784
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Infield.jpg
+
+newmtl grass_light
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.584314 0.227451
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/grass_light.jpg
+
+newmtl Quartz_Light_Grey
+Ka 0.000000 0.000000 0.000000
+Kd 0.984314 0.984314 0.984314
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Quartz_Light_Grey.jpg
+
+newmtl Infield1
+Ka 0.000000 0.000000 0.000000
+Kd 0.478431 0.317647 0.203922
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Infield1.jpg
+
+newmtl Brick6
+Ka 0.000000 0.000000 0.000000
+Kd 0.721569 0.537255 0.466667
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Brick6.png
+
+newmtl Food_Door
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.211765 0.141176
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Food_Door.jpg
+
+newmtl Main_Scoreboard
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.372549 0.423529
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Main_Scoreboard.jpg
+
+newmtl stairstexture2
+Ka 0.000000 0.000000 0.000000
+Kd 0.729412 0.729412 0.729412
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/stairstexture2.jpg
+
+newmtl White_Door
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.388235 0.396078
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/White_Door.jpg
+
+newmtl Lower_Outside
+Ka 0.000000 0.000000 0.000000
+Kd 0.352941 0.400000 0.439216
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Lower_Outside.jpg
+
+newmtl Outside
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.474510 0.486275
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Outside.jpg
+
+newmtl Entrance
+Ka 0.000000 0.000000 0.000000
+Kd 0.443137 0.447059 0.450980
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Entrance.jpg
+
+newmtl Map_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.431373 0.427451 0.447059
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Map_day.png
+
+newmtl Skyline_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.180392 0.231373 0.101961
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Skyline_day.png
+
+newmtl auto21
+Ka 0.000000 0.000000 0.000000
+Kd 0.333333 0.333333 0.333333
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl auto20
+Ka 0.000000 0.000000 0.000000
+Kd 0.776471 0.776471 0.776471
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl auto2
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Treeline_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.101961 0.168627 0.035294
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Treeline_day.png
+
+newmtl ootp_scoreboard_0
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/ootp_scoreboard_0.png
+
+newmtl ootp_scoreboard_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.023529 0.023529 0.023529
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/ootp_scoreboard_1.png
+
+newmtl ootp_scoreboard_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/ootp_scoreboard_2.png
+
+newmtl ootp_scoreboard_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/ootp_scoreboard_3.png
+
+newmtl ootp_scoreboard_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/ootp_scoreboard_4.png
+
+newmtl auto1
+Ka 0.000000 0.000000 0.000000
+Kd 0.239216 0.431373 0.176471
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/auto1.png
+
+newmtl auto
+Ka 0.000000 0.000000 0.000000
+Kd 0.274510 0.278431 0.274510
+Ks 0.000000 0.000000 0.000000
+d 0.980000
+map_Kd Hotto_Motto_Field_Kobe_Textures/auto.jpg
+
+newmtl auto4
+Ka 0.000000 0.000000 0.000000
+Kd 0.023529 0.168627 0.058824
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/auto4.png
+
+newmtl Metal_Aluminum_Anodized2
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Metal_Aluminum_Anodized2.jpg
+
+newmtl Duraports__Silver_Fabric
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.600000 0.600000
+Ks 0.000000 0.000000 0.000000
+d 0.700000
+map_Kd Hotto_Motto_Field_Kobe_Textures/Duraports__Silver_Fabric.jpg
+
+#EOF

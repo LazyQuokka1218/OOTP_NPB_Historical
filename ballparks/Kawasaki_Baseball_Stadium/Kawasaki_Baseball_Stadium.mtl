@@ -1,0 +1,549 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2010/2011 TIG
+# Made for 'Kawasaki_Baseball_Stadium.obj'
+
+newmtl Default_Material
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Walkway_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.490196 0.470588
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Walkway_day.png
+
+newmtl Dark_Grey
+Ka 0.000000 0.000000 0.000000
+Kd 0.098039 0.098039 0.098039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Dark_Grey.jpg
+
+newmtl Tunnel
+Ka 0.000000 0.000000 0.000000
+Kd 0.054902 0.054902 0.058824
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Tunnel.jpg
+
+newmtl Light_Pole_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.615686 0.627451
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Light_Pole_day.png
+
+newmtl Metal_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.419608 0.447059 0.454902
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Metal_day.png
+
+newmtl Pale_Green_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.525490 0.494118
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Pale_Green_day.png
+
+newmtl GrnMetal
+Ka 0.000000 0.000000 0.000000
+Kd 0.070588 0.184314 0.082353
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/GrnMetal.jpg
+
+newmtl Net_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Net_day.png
+
+newmtl OF_Fence
+Ka 0.000000 0.000000 0.000000
+Kd 0.227451 0.231373 0.235294
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/OF_Fence.png
+
+newmtl Scoreboard
+Ka 0.000000 0.000000 0.000000
+Kd 0.266667 0.388235 0.450980
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Scoreboard.jpg
+
+newmtl Fujisash
+Ka 0.000000 0.000000 0.000000
+Kd 0.647059 0.643137 0.694118
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Fujisash.jpg
+
+newmtl Batters_eye
+Ka 0.000000 0.000000 0.000000
+Kd 0.207843 0.172549 0.172549
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Batters_eye.jpg
+
+newmtl Dark_concrete
+Ka 0.000000 0.000000 0.000000
+Kd 0.188235 0.180392 0.200000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Dark_concrete.jpg
+
+newmtl green_Concrete_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.160784 0.235294 0.192157
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/green_Concrete_day.png
+
+newmtl darkclothtexture
+Ka 0.000000 0.000000 0.000000
+Kd 0.160784 0.211765 0.262745
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/darkclothtexture.jpg
+
+newmtl Concrete_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.666667 0.666667 0.666667
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Concrete_day.png
+
+newmtl Green_Fence
+Ka 0.000000 0.000000 0.000000
+Kd 0.137255 0.168627 0.133333
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Green_Fence.png
+
+newmtl dugout_old
+Ka 0.000000 0.000000 0.000000
+Kd 0.094118 0.121569 0.117647
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/dugout_old.jpg
+
+newmtl GreenDark_WallPad
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.223529 0.176471
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/GreenDark_WallPad.jpg
+
+newmtl Window_Old_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.415686 0.443137
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Window_Old_day.png
+
+newmtl seating_attendance3_grey
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.407843 0.403922
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../attendance/seating_popularity3_grey.jpg
+
+newmtl seating_attendance3_blue
+Ka 0.000000 0.000000 0.000000
+Kd 0.396078 0.407843 0.423529
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../attendance/seating_popularity3_blue.jpg
+
+newmtl seating_attendance3_red
+Ka 0.000000 0.000000 0.000000
+Kd 0.450980 0.400000 0.384314
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../attendance/seating_popularity3_red.jpg
+
+newmtl Glass_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.435294 0.454902 0.494118
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Glass_day.png
+
+newmtl BluWood_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.552941 0.674510 0.737255
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/BluWood_day.png
+
+newmtl Outside_Day
+Ka 0.000000 0.000000 0.000000
+Kd 0.780392 0.729412 0.631373
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Outside_Day.png
+
+newmtl Toshiba
+Ka 0.000000 0.000000 0.000000
+Kd 0.352941 0.435294 0.407843
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Toshiba.png
+
+newmtl Isuzu
+Ka 0.000000 0.000000 0.000000
+Kd 0.341176 0.423529 0.388235
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Isuzu.jpg
+
+newmtl Maxeal
+Ka 0.000000 0.000000 0.000000
+Kd 0.227451 0.325490 0.290196
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Maxeal.jpg
+
+newmtl Coca_Cola
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.431373 0.403922
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Coca_Cola.jpg
+
+newmtl Nippon_Oil
+Ka 0.000000 0.000000 0.000000
+Kd 0.396078 0.462745 0.439216
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Nippon_Oil.jpg
+
+newmtl Miyuki
+Ka 0.000000 0.000000 0.000000
+Kd 0.352941 0.431373 0.403922
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Miyuki.jpg
+
+newmtl Oonishi
+Ka 0.000000 0.000000 0.000000
+Kd 0.407843 0.478431 0.450980
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Oonishi.jpg
+
+newmtl Z
+Ka 0.000000 0.000000 0.000000
+Kd 0.415686 0.486275 0.462745
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Z.jpg
+
+newmtl Shinkin_Bank_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.270588 0.274510 0.639216
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Shinkin_Bank_day.png
+
+newmtl Makita
+Ka 0.000000 0.000000 0.000000
+Kd 0.258824 0.349020 0.313725
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Makita.jpg
+
+newmtl NEC
+Ka 0.000000 0.000000 0.000000
+Kd 0.235294 0.329412 0.298039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/NEC.jpg
+
+newmtl Fujitsu
+Ka 0.000000 0.000000 0.000000
+Kd 0.247059 0.345098 0.309804
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Fujitsu.jpg
+
+newmtl JR_East
+Ka 0.000000 0.000000 0.000000
+Kd 0.309804 0.396078 0.364706
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/JR_East.jpg
+
+newmtl Lotte_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.945098 0.835294 0.854902
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Lotte_day.png
+
+newmtl Mizuno_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.792157 0.803922 0.901961
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Mizuno_day.png
+
+newmtl OF_AD_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.650980 0.745098 0.607843
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/OF_AD_day.png
+
+newmtl AsahiNews_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.713725 0.705882 0.705882
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/AsahiNews_day.png
+
+newmtl UCC_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.886275 0.333333 0.360784
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/UCC_day.png
+
+newmtl Takashimaya_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.945098 0.301961 0.317647
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Takashimaya_day.png
+
+newmtl Hicut_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.223529 0.443137 0.305882
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Hicut_day.png
+
+newmtl Mitsu_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.450980 0.701961 0.560784
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Mitsu_day.png
+
+newmtl Kawa_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.713725 0.819608
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Kawa_day.png
+
+newmtl Map_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.474510 0.462745 0.470588
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Map_day.png
+
+newmtl APT_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.258824 0.290196 0.388235
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/APT_day.png
+
+newmtl 5FAPT_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.258824 0.294118 0.388235
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/5FAPT_day.png
+
+newmtl APTside_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.337255 0.384314 0.486275
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/APTside_day.png
+
+newmtl APTwall_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.423529 0.458824 0.572549
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/APTwall_day.png
+
+newmtl Roofing_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.196078 0.219608 0.278431
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Roofing_day.png
+
+newmtl RoofMetal_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.450980 0.439216
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/RoofMetal_day.png
+
+newmtl Brown_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.321569 0.380392
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Brown_day.png
+
+newmtl RoofColor_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.345098 0.341176 0.411765
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/RoofColor_day.png
+
+newmtl Residence_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.388235 0.407843 0.419608
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Residence_day.png
+
+newmtl House_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.423529 0.415686 0.396078
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/House_day.png
+
+newmtl FujiSide_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.729412 0.713725 0.717647
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/FujiSide_day.png
+
+newmtl Fujimi_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.788235 0.760784 0.745098
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Fujimi_day.png
+
+newmtl North_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.133333 0.145098 0.176471
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/North_day.png
+
+newmtl West_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.172549 0.188235
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/West_day.png
+
+newmtl East_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.145098 0.156863 0.192157
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/East_day.png
+
+newmtl South_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.239216 0.247059 0.274510
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/South_day.png
+
+newmtl Quartz_Light_Grey1
+Ka 0.000000 0.000000 0.000000
+Kd 0.984314 0.984314 0.988235
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Quartz_Light_Grey1.jpg
+
+newmtl FieldTurf2
+Ka 0.000000 0.000000 0.000000
+Kd 0.313725 0.517647 0.239216
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/FieldTurf2.jpg
+
+newmtl Quartz_Light_Grey
+Ka 0.000000 0.000000 0.000000
+Kd 0.984314 0.984314 0.984314
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Quartz_Light_Grey.jpg
+
+newmtl Infield_dirt
+Ka 0.000000 0.000000 0.000000
+Kd 0.623529 0.427451 0.298039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Infield_dirt.jpg
+
+newmtl DECs001_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.078431 0.164706 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/DECs001_day.png
+
+newmtl Light_Shell_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.635294 0.686275 0.737255
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Light_Shell_day.png
+
+newmtl Light_Bulb_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/Light_Bulb_day.png
+
+newmtl blue_concrete
+Ka 0.000000 0.000000 0.000000
+Kd 0.729412 0.866667 0.905882
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/blue_concrete.jpg
+
+newmtl ootp_scoreboard_0
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/ootp_scoreboard_0.png
+
+newmtl ootp_scoreboard_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.023529 0.023529 0.023529
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/ootp_scoreboard_1.png
+
+newmtl ootp_scoreboard_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Kawasaki_Baseball_Stadium_Textures/ootp_scoreboard_2.png
+
+#EOF

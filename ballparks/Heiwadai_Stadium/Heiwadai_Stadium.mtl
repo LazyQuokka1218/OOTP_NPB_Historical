@@ -1,0 +1,618 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2010/2011 TIG
+# Made for 'Heiwadai_Stadium.obj'
+
+newmtl Default_Material
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Metal_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.454902 0.474510 0.482353
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Metal_day.png
+
+newmtl Light_Pole_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.639216 0.658824 0.670588
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Light_Pole_day.png
+
+newmtl Walkway_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.466667 0.466667
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Walkway_day.png
+
+newmtl Stairs_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.439216 0.427451 0.415686
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Stairs_day.png
+
+newmtl Tunnel
+Ka 0.000000 0.000000 0.000000
+Kd 0.141176 0.149020 0.156863
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Tunnel.jpg
+
+newmtl white_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.843137 0.839216 0.831373
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/white_day.png
+
+newmtl Concrete_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.666667 0.666667 0.666667
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Concrete_day.png
+
+newmtl Scoreboard
+Ka 0.000000 0.000000 0.000000
+Kd 0.450980 0.458824 0.454902
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Scoreboard.jpg
+
+newmtl Seiko_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.592157 0.568627
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Seiko_day.png
+
+newmtl Gmetal_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.388235 0.478431 0.447059
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Gmetal_day.png
+
+newmtl Clock
+Ka 0.000000 0.000000 0.000000
+Kd 0.396078 0.376471 0.352941
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Clock.jpg
+
+newmtl Screen_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.403922 0.337255 0.274510
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Screen_day.png
+
+newmtl seating_attendance3_blue
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.407843 0.415686
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../attendance/seating_popularity3_blue.jpg
+
+newmtl seating_attendance3_red
+Ka 0.000000 0.000000 0.000000
+Kd 0.443137 0.400000 0.380392
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../attendance/seating_popularity3_red.jpg
+
+newmtl Green_Metal_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.200000 0.098039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Green_Metal_day.png
+
+newmtl Vertical_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.341176 0.415686 0.321569
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Vertical_day.png
+
+newmtl seating_attendance3_grey
+Ka 0.000000 0.000000 0.000000
+Kd 0.403922 0.407843 0.396078
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../attendance/seating_popularity3_grey.jpg
+
+newmtl White_Fence2
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.592157 0.600000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/White_Fence2.png
+
+newmtl White_Fence_VerticalOnly
+Ka 0.000000 0.000000 0.000000
+Kd 0.650980 0.650980 0.650980
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/White_Fence_VerticalOnly.png
+
+newmtl metal_roof_diffuse
+Ka 0.000000 0.000000 0.000000
+Kd 0.215686 0.239216 0.247059
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/metal_roof_diffuse.jpg
+
+newmtl FieldTurf
+Ka 0.000000 0.000000 0.000000
+Kd 0.239216 0.443137 0.156863
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/FieldTurf.jpg
+
+newmtl Metal_Aluminum_Anodized2
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Metal_Aluminum_Anodized2.jpg
+
+newmtl greenconcretewalltexture
+Ka 0.000000 0.000000 0.000000
+Kd 0.094118 0.211765 0.180392
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/greenconcretewalltexture.jpg
+
+newmtl Green_Fence
+Ka 0.000000 0.000000 0.000000
+Kd 0.054902 0.117647 0.101961
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Green_Fence.png
+
+newmtl Window_Half_Old
+Ka 0.000000 0.000000 0.000000
+Kd 0.396078 0.415686 0.435294
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Window_Half_Old.JPG
+
+newmtl dugout_old
+Ka 0.000000 0.000000 0.000000
+Kd 0.094118 0.121569 0.117647
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/dugout_old.jpg
+
+newmtl Backstop
+Ka 0.000000 0.000000 0.000000
+Kd 0.290196 0.309804 0.298039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Backstop.jpg
+
+newmtl Map_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.447059 0.447059
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Map_day.png
+
+newmtl Quartz_Light_Grey1
+Ka 0.000000 0.000000 0.000000
+Kd 0.984314 0.984314 0.988235
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Quartz_Light_Grey1.jpg
+
+newmtl Quartz_Light_Grey
+Ka 0.000000 0.000000 0.000000
+Kd 0.984314 0.984314 0.984314
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Quartz_Light_Grey.jpg
+
+newmtl Infield
+Ka 0.000000 0.000000 0.000000
+Kd 0.439216 0.294118 0.184314
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Infield.jpg
+
+newmtl Groundcover_Sand_Smooth1
+Ka 0.000000 0.000000 0.000000
+Kd 0.709804 0.474510 0.258824
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Groundcover_Sand_Smooth1.jpg
+
+newmtl Turf_infield
+Ka 0.000000 0.000000 0.000000
+Kd 0.364706 0.564706 0.282353
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Turf_infield.jpg
+
+newmtl 122m
+Ka 0.000000 0.000000 0.000000
+Kd 0.309804 0.400000 0.376471
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/122m.png
+
+newmtl 92m
+Ka 0.000000 0.000000 0.000000
+Kd 0.325490 0.411765 0.388235
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/92m.png
+
+newmtl fujitsu
+Ka 0.000000 0.000000 0.000000
+Kd 0.290196 0.380392 0.356863
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/fujitsu.png
+
+newmtl Torys
+Ka 0.000000 0.000000 0.000000
+Kd 0.270588 0.360784 0.337255
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Torys.png
+
+newmtl Ryobi
+Ka 0.000000 0.000000 0.000000
+Kd 0.309804 0.396078 0.372549
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Ryobi.png
+
+newmtl Asahi_Beer_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.611765 0.588235
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Asahi_Beer_day.png
+
+newmtl daiei_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.474510 0.552941 0.525490
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/daiei_day.png
+
+newmtl Suntory
+Ka 0.000000 0.000000 0.000000
+Kd 0.278431 0.372549 0.345098
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Suntory.png
+
+newmtl KC_Card
+Ka 0.000000 0.000000 0.000000
+Kd 0.270588 0.360784 0.337255
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/KC_Card.png
+
+newmtl NEC_Computer
+Ka 0.000000 0.000000 0.000000
+Kd 0.231373 0.329412 0.301961
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/NEC_Computer.png
+
+newmtl KBC
+Ka 0.000000 0.000000 0.000000
+Kd 0.298039 0.384314 0.360784
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/KBC.png
+
+newmtl JAL
+Ka 0.000000 0.000000 0.000000
+Kd 0.313725 0.396078 0.372549
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/JAL.png
+
+newmtl Cabin85
+Ka 0.000000 0.000000 0.000000
+Kd 0.239216 0.333333 0.309804
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Cabin85.png
+
+newmtl UCC_Coffee
+Ka 0.000000 0.000000 0.000000
+Kd 0.254902 0.349020 0.325490
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/UCC_Coffee.png
+
+newmtl Mild_Seven
+Ka 0.000000 0.000000 0.000000
+Kd 0.227451 0.329412 0.309804
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Mild_Seven.png
+
+newmtl wakachiku
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.427451 0.403922
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/wakachiku.png
+
+newmtl Citizen
+Ka 0.000000 0.000000 0.000000
+Kd 0.215686 0.313725 0.290196
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Citizen.png
+
+newmtl Riccar
+Ka 0.000000 0.000000 0.000000
+Kd 0.262745 0.352941 0.329412
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Riccar.png
+
+newmtl Cola_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.909804 0.407843 0.435294
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Cola_day.png
+
+newmtl Paint_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.588235 0.654902 0.772549
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Paint_day.png
+
+newmtl Kansaikoso_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.694118 0.768627 0.721569
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Kansaikoso_day.png
+
+newmtl Asahi_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.145098 0.145098 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Asahi_day.png
+
+newmtl Life_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.709804 0.756863 0.686275
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Life_day.png
+
+newmtl MitsuOil_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.572549 0.745098 0.643137
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/MitsuOil_day.png
+
+newmtl Aso_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.721569 0.733333 0.749020
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Aso_day.png
+
+newmtl Sekiyu_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.823529 0.572549 0.576471
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Sekiyu_day.png
+
+newmtl DaieiEdu_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.721569
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/DaieiEdu_day.png
+
+newmtl Hitachi_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.866667 0.513725 0.501961
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Hitachi_day.png
+
+newmtl Torys_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.839216 0.713725 0.301961
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Torys_day.png
+
+newmtl BigJohn_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.929412 0.541176 0.219608
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/BigJohn_day.png
+
+newmtl Toyota_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.690196 0.549020 0.560784
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Toyota_day.png
+
+newmtl Fujiya_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.737255 0.678431 0.643137
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Fujiya_day.png
+
+newmtl Mizuno_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.184314 0.247059 0.615686
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Mizuno_day.png
+
+newmtl KBCRadio_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.803922 0.674510 0.694118
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/KBCRadio_day.png
+
+newmtl Nishispo_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.658824 0.772549
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Nishispo_day.png
+
+newmtl KKB_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.686275 0.717647 0.682353
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/KKB_day.png
+
+newmtl Nishitravel_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.709804 0.635294 0.635294
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Nishitravel_day.png
+
+newmtl Realestate_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.890196 0.435294 0.474510
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Realestate_day.png
+
+newmtl treeline_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.137255 0.192157 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/treeline_day.png
+
+newmtl North_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.145098 0.156863 0.192157
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/North_day.png
+
+newmtl South_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.333333 0.321569 0.337255
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/South_day.png
+
+newmtl Screen_Bottom_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.247059 0.341176 0.325490
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Screen_Bottom_day.png
+
+newmtl Top
+Ka 0.000000 0.000000 0.000000
+Kd 0.282353 0.368627 0.345098
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Top.png
+
+newmtl auto20
+Ka 0.000000 0.000000 0.000000
+Kd 0.776471 0.776471 0.776471
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Light_Shell_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.635294 0.686275 0.737255
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Light_Shell_day.png
+
+newmtl Tent_Blue_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.356863 0.447059 0.549020
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/Tent_Blue_day.png
+
+newmtl ootp_scoreboard_0
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/ootp_scoreboard_0.png
+
+newmtl ootp_scoreboard_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.023529 0.023529 0.023529
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/ootp_scoreboard_1.png
+
+newmtl ootp_scoreboard_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/ootp_scoreboard_2.png
+
+newmtl ootp_scoreboard_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/ootp_scoreboard_3.png
+
+newmtl ootp_scoreboard_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/ootp_scoreboard_4.png
+
+newmtl Duraports__Silver_Fabric
+Ka 0.000000 0.000000 0.000000
+Kd 0.768627 0.741176 0.078431
+Ks 0.000000 0.000000 0.000000
+d 0.700000
+map_Kd Heiwadai_Stadium_Textures/Duraports__Silver_Fabric.jpg
+
+newmtl DECs001_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.078431 0.164706 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Heiwadai_Stadium_Textures/DECs001_day.png
+
+#EOF

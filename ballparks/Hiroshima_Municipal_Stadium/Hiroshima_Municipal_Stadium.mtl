@@ -1,0 +1,722 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2010/2011 TIG
+# Made for 'Hiroshima_Municipal_Stadium.obj'
+
+newmtl Default_Material
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Color_008
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.117647 0.117647
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Light_Pole_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.615686 0.627451
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Light_Pole_day.png
+
+newmtl Dark_Grey
+Ka 0.000000 0.000000 0.000000
+Kd 0.298039 0.298039 0.298039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Dark_Grey.jpg
+
+newmtl Metal_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.454902 0.474510 0.482353
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Metal_day.png
+
+newmtl white_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.933333 0.933333 0.933333
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/white_day.png
+
+newmtl green_Concrete
+Ka 0.000000 0.000000 0.000000
+Kd 0.054902 0.341176 0.243137
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/green_Concrete.jpg
+
+newmtl Walkway_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.466667 0.466667
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Walkway_day.png
+
+newmtl Tunnel
+Ka 0.000000 0.000000 0.000000
+Kd 0.054902 0.054902 0.058824
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Tunnel.jpg
+
+newmtl Light_Bar
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.568627 0.584314
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Light_Bar.png
+
+newmtl Lt_Fence_Mesh
+Ka 0.000000 0.000000 0.000000
+Kd 0.458824 0.458824 0.466667
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Lt_Fence_Mesh.png
+
+newmtl Lt_Mesh_vertical
+Ka 0.000000 0.000000 0.000000
+Kd 0.454902 0.454902 0.462745
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Lt_Mesh_vertical.png
+
+newmtl blue_concrete
+Ka 0.000000 0.000000 0.000000
+Kd 0.694118 0.874510 0.925490
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/blue_concrete.jpg
+
+newmtl Map_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.498039 0.458824
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Map_day.png
+
+newmtl Green_Pale
+Ka 0.000000 0.000000 0.000000
+Kd 0.337255 0.454902 0.345098
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Green_Pale.jpg
+
+newmtl dugout_old
+Ka 0.000000 0.000000 0.000000
+Kd 0.094118 0.121569 0.117647
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/dugout_old.jpg
+
+newmtl Mesh
+Ka 0.000000 0.000000 0.000000
+Kd 0.250980 0.235294 0.298039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Mesh.png
+
+newmtl wooden_wall_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.294118 0.196078
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/wooden_wall_day.png
+
+newmtl WallPad
+Ka 0.000000 0.000000 0.000000
+Kd 0.086275 0.239216 0.172549
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/WallPad.jpg
+
+newmtl Outfield_Fence
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.125490 0.101961
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Outfield_Fence.png
+
+newmtl CF_Fence
+Ka 0.000000 0.000000 0.000000
+Kd 0.121569 0.121569 0.125490
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/CF_Fence.png
+
+newmtl Scoreboard_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.396078 0.403922
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Scoreboard_day.png
+
+newmtl Stairs_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.439216 0.427451 0.415686
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Stairs_day.png
+
+newmtl CF_Ad_Day
+Ka 0.000000 0.000000 0.000000
+Kd 0.309804 0.380392 0.305882
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/CF_Ad_Day.png
+
+newmtl Green_Flag_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.019608 0.031373 0.011765
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Green_Flag_day.png
+
+newmtl Blue_Flag_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.019608 0.011765 0.031373
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Blue_Flag_day.png
+
+newmtl Red_Flag_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.031373 0.007843 0.011765
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Red_Flag_day.png
+
+newmtl Yellow_Flag_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.039216 0.027451 0.011765
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Yellow_Flag_day.png
+
+newmtl Japan_Flag_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.043137 0.027451 0.031373
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Japan_Flag_day.png
+
+newmtl Concrete_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.666667 0.666667 0.666667
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Concrete_day.png
+
+newmtl Window_Half_Old
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.415686 0.431373
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Window_Half_Old.JPG
+
+newmtl Plank_wall_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.815686 0.694118 0.447059
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Plank_wall_day.png
+
+newmtl Officewall_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.407843 0.505882 0.576471
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Officewall_day.png
+
+newmtl Union_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.427451 0.443137 0.462745
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Union_day.png
+
+newmtl BuildingWall_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.749020 0.737255 0.690196
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/BuildingWall_day.png
+
+newmtl PL_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.843137 0.898039 0.901961
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/PL_day.png
+
+newmtl White_wall_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.960784 0.960784 0.952941
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/White_wall_day.png
+
+newmtl Youth_center_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.847059 0.847059 0.847059
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Youth_center_day.png
+
+newmtl Store_wall_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.435294 0.529412 0.674510
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Store_wall_day.png
+
+newmtl Tile_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.670588 0.603922 0.580392
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Tile_day.png
+
+newmtl glasswall_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.317647 0.450980 0.545098
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/glasswall_day.png
+
+newmtl Quartz_Light_Grey
+Ka 0.000000 0.000000 0.000000
+Kd 0.984314 0.984314 0.988235
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Quartz_Light_Grey.jpg
+
+newmtl Infield_Dirt
+Ka 0.000000 0.000000 0.000000
+Kd 0.478431 0.313725 0.207843
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Infield_Dirt.jpg
+
+newmtl Groundcover_Sand_Smooth1
+Ka 0.000000 0.000000 0.000000
+Kd 0.588235 0.396078 0.239216
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Groundcover_Sand_Smooth1.jpg
+
+newmtl grass_light
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.541176 0.215686
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/grass_light.jpg
+
+newmtl Xebec_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.270588 0.396078 0.556863
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Xebec_day.png
+
+newmtl otafuku_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.768627 0.764706
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/otafuku_day.png
+
+newmtl poplar_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.862745 0.274510 0.301961
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/poplar_day.png
+
+newmtl momiji_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.839216 0.745098 0.713725
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/momiji_day.png
+
+newmtl kewpie_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 0.749020 0.788235
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/kewpie_day.png
+
+newmtl Cola_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.709804 0.294118 0.341176
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Cola_day.png
+
+newmtl seiky_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.843137 0.909804 0.956863
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/seiky_day.png
+
+newmtl madras_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.309804 0.337255 0.462745
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/madras_day.png
+
+newmtl mitsukoshi_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.913725 0.192157 0.294118
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/mitsukoshi_day.png
+
+newmtl hita_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.498039 0.670588 0.835294
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/hita_day.png
+
+newmtl yamaguchi_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.152941 0.678431 0.388235
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/yamaguchi_day.png
+
+newmtl flets_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.764706 0.752941 0.835294
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/flets_day.png
+
+newmtl AD_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.474510 0.674510 0.576471
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/AD_day.png
+
+newmtl AD2_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.407843 0.513725 0.639216
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/AD2_day.png
+
+newmtl AIG_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.705882 0.729412 0.796078
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/AIG_day.png
+
+newmtl anabuki_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.172549 0.678431 0.705882
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/anabuki_day.png
+
+newmtl Left_AD_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.580392 0.549020
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Left_AD_day.png
+
+newmtl CGC_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.913725 0.141176 0.203922
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/CGC_day.png
+
+newmtl Goyo_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.364706 0.431373 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Goyo_day.png
+
+newmtl Yom_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.541176 0.541176 0.541176
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Yom_day.png
+
+newmtl UCC_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.803922 0.231373 0.258824
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/UCC_day.png
+
+newmtl AD3_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.745098 0.729412 0.450980
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/AD3_day.png
+
+newmtl Right_AD_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.313725 0.372549 0.309804
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Right_AD_day.png
+
+newmtl daruma
+Ka 0.000000 0.000000 0.000000
+Kd 0.372549 0.454902 0.415686
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/daruma.png
+
+newmtl mazda_AD
+Ka 0.000000 0.000000 0.000000
+Kd 0.258824 0.368627 0.313725
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/mazda_AD.png
+
+newmtl Wall_AD
+Ka 0.000000 0.000000 0.000000
+Kd 0.309804 0.415686 0.360784
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Wall_AD.png
+
+newmtl belista
+Ka 0.000000 0.000000 0.000000
+Kd 0.254902 0.356863 0.309804
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/belista.png
+
+newmtl sunstar
+Ka 0.000000 0.000000 0.000000
+Kd 0.176471 0.301961 0.243137
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/sunstar.png
+
+newmtl toshiba
+Ka 0.000000 0.000000 0.000000
+Kd 0.360784 0.450980 0.392157
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/toshiba.png
+
+newmtl kyocera
+Ka 0.000000 0.000000 0.000000
+Kd 0.247059 0.352941 0.301961
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/kyocera.png
+
+newmtl hiro_gas
+Ka 0.000000 0.000000 0.000000
+Kd 0.219608 0.333333 0.282353
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/hiro_gas.png
+
+newmtl chugoku
+Ka 0.000000 0.000000 0.000000
+Kd 0.282353 0.384314 0.337255
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/chugoku.png
+
+newmtl suzuki
+Ka 0.000000 0.000000 0.000000
+Kd 0.278431 0.388235 0.337255
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/suzuki.png
+
+newmtl yanmar
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.443137 0.396078
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/yanmar.png
+
+newmtl wooo
+Ka 0.000000 0.000000 0.000000
+Kd 0.215686 0.329412 0.274510
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/wooo.png
+
+newmtl NE_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.266667 0.286275 0.305882
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/NE_day.png
+
+newmtl NW_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.360784 0.388235 0.388235
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/NW_day.png
+
+newmtl City_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.211765 0.239216 0.294118
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/City_day.png
+
+newmtl seating_attendance3_grey
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.407843 0.403922
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../attendance/seating_popularity3_grey.jpg
+
+newmtl seating_attendance3_green
+Ka 0.000000 0.000000 0.000000
+Kd 0.396078 0.407843 0.388235
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../attendance/seating_popularity3_green.jpg
+
+newmtl seating_attendance3_red
+Ka 0.000000 0.000000 0.000000
+Kd 0.450980 0.400000 0.384314
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../attendance/seating_popularity3_red.jpg
+
+newmtl seating_attendance3_blue
+Ka 0.000000 0.000000 0.000000
+Kd 0.396078 0.407843 0.423529
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ../attendance/seating_popularity3_blue.jpg
+
+newmtl Light_Fence
+Ka 0.000000 0.000000 0.000000
+Kd 0.133333 0.133333 0.137255
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Light_Fence.png
+
+newmtl Light_Fence_Vertical
+Ka 0.000000 0.000000 0.000000
+Kd 0.101961 0.101961 0.101961
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Light_Fence_Vertical.png
+
+newmtl pink_concrete
+Ka 0.000000 0.000000 0.000000
+Kd 0.870588 0.733333 0.741176
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/pink_concrete.jpg
+
+newmtl auto21
+Ka 0.000000 0.000000 0.000000
+Kd 0.333333 0.333333 0.333333
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Light_Shell_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.635294 0.686275 0.737255
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Light_Shell_day.png
+
+newmtl auto20
+Ka 0.000000 0.000000 0.000000
+Kd 0.776471 0.776471 0.776471
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl auto2
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+
+newmtl Light_Bulb_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Light_Bulb_day.png
+
+newmtl JA_Bank
+Ka 0.000000 0.000000 0.000000
+Kd 0.301961 0.505882 0.435294
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/JA_Bank.png
+
+newmtl Gymnasium_day
+Ka 0.000000 0.000000 0.000000
+Kd 0.294118 0.337255 0.349020
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Gymnasium_day.png
+
+newmtl ootp_scoreboard_0
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/ootp_scoreboard_0.png
+
+newmtl ootp_scoreboard_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.023529 0.023529 0.023529
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/ootp_scoreboard_1.png
+
+newmtl ootp_scoreboard_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/ootp_scoreboard_2.png
+
+newmtl Metal_Aluminum_Anodized2
+Ka 0.000000 0.000000 0.000000
+Kd 0.788235 0.329412 0.058824
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Metal_Aluminum_Anodized2.jpg
+
+newmtl Duraports__Silver_Fabric
+Ka 0.000000 0.000000 0.000000
+Kd 0.447059 0.290196 0.160784
+Ks 0.000000 0.000000 0.000000
+d 0.700000
+map_Kd Hiroshima_Municipal_Stadium_Textures/Duraports__Silver_Fabric.jpg
+
+#EOF
