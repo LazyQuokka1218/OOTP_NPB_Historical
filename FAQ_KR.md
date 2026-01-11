@@ -1,6 +1,19 @@
 # FAQ (자주 묻는 질문)
 
 <details>
+<summary><b>Q: 리그명이나 팀명을 바꾸고 싶어요.</b></summary>
+
+기본 리그명은 "Major League Baseball"로 되어있습니다. 직접 바꿔서 사용하세요.
+
+**주의:** 리그명을 "Nippon Professional Baseball"로 설정하지 마세요. OOTP가 리그를 남아공 리그로 변환해버립니다.
+
+**"Japanese Professional Baseball"** 또는 **"Japanese Probaseball League"** 같은 이름을 사용하세요. 약어는 "NPB"로 해도 괜찮습니다.
+
+마찬가지로, 6개 이상의 팀명이 실제 NPB 팀명과 동일하면 OOTP가 리그를 남아공 리그로 변환합니다. 이 모드는 이 문제를 피하기 위해 **도시명 + 닉네임** 형식(예: "Yomiuri Giants" 대신 "Tokyo Giants")을 사용합니다. 팀명은 그대로 유지하는 것을 권장합니다.
+
+</details>
+
+<details>
 <summary><b>Q: NPB와 MLB를 동시에 불러올 수 있나요?</b></summary>
 
 기술적으로 가능하지만 추천하지 않습니다.
